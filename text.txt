@@ -1,0 +1,7 @@
+to implement contact form use this package => npm i @emailjs/browser
+and npm i @fortawesome/free-brands-svg-icons and npm i @fortawesome/free-solid-svg-icons and npm i @fortawesome/react-fontawesome
+npm i animate.css and npm i gsap-trial for animation
+npm i loaders.css
+npm i react-leaflet  =>map
+npm i react-loaders
+npm i sass
